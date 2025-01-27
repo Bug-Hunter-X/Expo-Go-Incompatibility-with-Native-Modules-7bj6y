@@ -1,0 +1,1 @@
+This error occurs when using the Expo Go app to test an app that uses a specific native module. The module might not be compatible with the Expo Go environment, or it might be improperly configured. This can lead to a crash or unexpected behavior in the app.
